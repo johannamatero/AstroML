@@ -20,3 +20,5 @@ The ALMA Science Archive consists of more than 1 PB data. When knowing propertie
 <img src= "Images/JVO.gif">
 
 #### Subproject: Identify star classification (Notebooks/Find Information from ArXiv)
+
+<img src= "Images/arxiv_demo.jpg">
