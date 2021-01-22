@@ -1,4 +1,4 @@
-# AstroProject
+# Machine Learning for Astronomy
 This project will consist of several machine learning based algorithms aimed to
 1. *classify* astronomical objects
 1. simplify the *search* in [ASA](https://almascience.nrao.edu/asax/).
