@@ -6,7 +6,6 @@ This project will consist of several machine learning based algorithms aimed to
 These processes are based on the object's visual appearence.
 
 ## Subprojects
-- [ ] Creating simulated data set of disks
 - [x] Fetching data from [JVO](https://jvo.nao.ac.jp/portal/alma/archive.do)
 - [x] Identifying star classification using [arXiv](https://arxiv.org/)
 
@@ -25,5 +24,15 @@ The ALMA Science Archive consists of more than 1 PB data. When knowing propertie
 
 ## Installing
 Required dependencies:
-- [Numpy](https://numpy.org/)
-- [Matplotlib](https://matplotlib.org/stable/index.html)
+
+**`Numpy`**
+**`Matplotlib`**
+**`Pandas`**
+**`Requests`**
+**`Fake_useragent`**
+**`bs4`**
+**`Urllib`**
+**`Termcolor`**
+**`Os`**
+**`Collections`**
+
